@@ -13,11 +13,6 @@ optimizer = true
 optimizer_runs = 1_000
 # Fuzz more than the default 256
 fuzz_runs = 1_000
-# Configure remappings
-remappings = [
-  "@std=lib/forge-std/src/",
-  "@solmate=lib/solmate/src/",
-]
 
 # Extreme Fuzzing CI Profile :P
 [ci]
