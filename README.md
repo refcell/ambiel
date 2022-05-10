@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" top="100" src="./assets/readme.jpg">
+<img align="right" width="150" height="150" top="100" src="./assets/ambiel.jpg">
 
 # ambiel • [![tests](https://github.com/abigger87/ambiel/actions/workflows/tests.yml/badge.svg)](https://github.com/abigger87/ambiel/actions/workflows/tests.yml) ![GitHub](https://img.shields.io/github/license/abigger87/ambiel)  ![GitHub package.json version](https://img.shields.io/github/package-json/v/abigger87/ambiel)
 
